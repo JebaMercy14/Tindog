@@ -1,8 +1,6 @@
 ## tindog-website
 
-Its a part of a course i'm currently following at [UDEMY](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-
-It includes (not in any order);
+### Tech Stack:
 - Bootstrap Navigation Bar
 - Bootstrap Grid Layout
 - Bootstrap Containers
